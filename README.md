@@ -17,68 +17,27 @@
 東京農工大学 府中キャンパス2号館21教室
 
 ### プログラム
-9:00～10:20 「NBDCの紹介とNBDCが提供するサービス」
+9:05～10:20 「[NBDCの紹介とNBDCが提供するサービス](https://github.com/AJACS-training/AJACS52/blob/master/minowa)」
 箕輪 真理  
 (情報・システム研究機構 ライフサイエンス統合データベースセンター
  / 科学技術振興機構 バイオサイエンスデータベースセンター)
 
 
-10:30～12:00 「DDBJと新型シーケンサ解析パイプラインの使い方」
+10:30～12:00 「[DDBJと新型シーケンサ解析パイプラインの使い方](https://github.com/AJACS-training/AJACS52/blob/master/yn)」
 中村 保一  
 (国立遺伝学研究所)
 
 
-13:00～14:00 「データ解析プラットフォーム Galaxyの使い方」
+13:00～14:00 「[データ解析プラットフォーム Galaxyの使い方](https://github.com/AJACS-training/AJACS52/blob/master/ohta)」
 大田 達郎
 (情報・システム研究機構 ライフサイエンス統合データベースセンター)
 
 
-14:15～15:15 「遺伝子発現DB・解析ツールの紹介」
+14:15～15:15 「[遺伝子発現DB・解析ツールの紹介](https://github.com/AJACS-training/AJACS52/blob/master/hono)」
 小野 浩雅
 (情報・システム研究機構 ライフサイエンス統合データベースセンター)
 
 
-15:30～17:00 「RおよびBioconductorを使ったバイオデータ解析」
+15:30～17:00 「[RおよびBioconductorを使ったバイオデータ解析](https://github.com/AJACS-training/AJACS52/blob/master/bono)」
 坊農 秀雅
-(情報・システム研究機構 ライフサイエンス統合データベースセンター)【講習前座資料】
-
-
-
-
-10:30～12:00「[NBDCの紹介とNBDCが提供するサービス](https://github.com/AJACS-training/AJACS54/blob/master/kushida1/)」
-櫛田 達矢  
-(科学技術振興機構 バイオサイエンスデータベースセンター (NBDC))
-
-
-13:00～14:30 「[ゲノム配列DBの使い方](https://github.com/AJACS-training/AJACS54/blob/master/bono1/)」  
-坊農 秀雅  
-(情報・システム研究機構 ライフサイエンス統合データベースセンター (DBCLS))  
-
-
-14:40～16:10 「[次世代シーケンサー(NGS)と関連するデータベース・ツール](https://github.com/AJACS-training/AJACS54/blob/master/kawano/)」  
-河野 信  
-(科学技術振興機構 バイオサイエンスデータベースセンター (NBDC)
- / 情報・システム研究機構 ライフサイエンス統合データベースセンター(DBCLS))  
-
-16:20～17:50 「[パスウェイ情報を中心としたKEGG/GenomeNet Webサービスの紹介](https://github.com/AJACS-training/AJACS54/blob/master/muto/)」  
-武藤 愛  
-(奈良先端科学技術大学院大学バイオサイエンス研究科)
-
-#### 6月17日(水)  
-10:30～12:00 「[文献情報関連のサービスを活用する](https://github.com/AJACS-training/AJACS54/blob/master/yamamoto/)」  
-山本 泰智  
-(情報・システム研究機構 ライフサイエンス統合データベースセンター (DBCLS))
-
-13:00～14:30 「[遺伝子発現DBの使い方](https://github.com/AJACS-training/AJACS54/blob/master/bono2/)」  
-坊農 秀雅  
-(情報・システム研究機構 ライフサイエンス統合データベースセンター (DBCLS))
-
-14:40～16:10 「[微生物におけるNGSデータからゲノムアノテーションまで](https://github.com/AJACS-training/AJACS54/blob/master/fujisawa/)」  
-藤澤 貴智  
-(国立遺伝学研究所 大量遺伝情報研究室)
-
-
-16:20～17:50 「[Cytoscapeを使ったデータの可視化](https://github.com/AJACS-training/AJACS54/blob/master/kushida2/)」  
-櫛田 達矢  
-(科学技術振興機構 バイオサイエンスデータベースセンター (NBDC))
-# AJACS52
+(情報・システム研究機構 ライフサイエンス統合データベースセンター)
